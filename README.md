@@ -1,5 +1,5 @@
 <h2 style="text-align: center;">Hey 👋, I'm Yousef Moath Salman</h2>
-<p style="text-align: center;">I'm a <strong>Front-End Developer</strong> specializing in <strong>Bootstrap</strong>. Currently studying at <strong>Tafila Technical University, Jordan</strong>. I love <strong>fym</strong>, swimming, FIFA, and coding.</p>
+<p style="text-align: center;">I'm a <strong>Front-End Developer</strong> specializing in <strong>Bootstrap</strong>. Currently studying at <strong>Tafila Technical University, Jordan</strong>. I love <strong>Gym</strong>, swimming, FIFA, and coding.</p>
 
 <p style="text-align: center;">
   <a href="#"><img src="https://img.shields.io/badge/-Yousef%20Moath%20Salman-4E69C8?style=flat-square&amp;labelColor=4E69C8" alt="Website Badge"></a>
