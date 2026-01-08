@@ -1,5 +1,5 @@
 <h2 style="text-align: center;">Hey 👋, I'm Yousef Moath Salman</h2>
-<p style="text-align: center;">I'm a <strong>Front-End Developer</strong> specializing in <strong>Bootstrap</strong>. Currently studying at <strong>Tafila Technical University, Jordan</strong>. I love <strong>fym</strong>, swimming, FIFA, and coding.</p>
+<p style="text-align: center;">I'm a <strong>Front-End Developer</strong> specializing in <strong>Bootstrap</strong>. Currently studying at <strong>Tafila Technical University.</p>
 
 <p style="text-align: center;">
   <a href="https://www.linkedin.com/in/yousef-salman-27b19a33a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsE0JqCxDSq%2B5wtby%2FxET3A%3D%3D">
