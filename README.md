@@ -15,7 +15,7 @@
   <li>🔭 I’m currently working on personal front-end projects.</li>
   <li>🧐 Learning more about <strong>React</strong>, <strong>CSS</strong>, and modern web development.</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yusefalsalman">GitHub</a>.</li>
-  <li>💬 Ping me about <strong>front-end dev, React, Bootstrap, CSS</strong>.</li>
+  <li>💬 Ping me about <strong>front-end dev, React, Tailwind, CSS</strong>.</li>
 </ul>
 
 <h2 style="text-align: center;">🚀 Some Tools I Use</h2>
