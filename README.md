@@ -1,21 +1,20 @@
 <h2 style="text-align: center;">Hey 👋, I'm Yousef Moath Salman</h2>
 <p style="text-align: center;">I'm a <strong>Front-End Developer</strong> specializing in <strong>React</strong>. Currently studying at <strong>Tafila Technical University.</p>
-
 <p style="text-align: center;">
   <a href="https://www.linkedin.com/in/yousef-salman-27b19a33a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsE0JqCxDSq%2B5wtby%2FxET3A%3D%3D">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn" alt="LinkedIn Badge">
   </a>
-  <a href="https://github.com/yusefalsalman">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub Badge">
+  <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
-
 <h2 style="text-align: center;">⚡️ A Few Quick Facts</h2>
 <ul style="list-style-position: inside; text-align: center;">
-  <li>🔭 I’m currently working on personal front-end projects.</li>
-  <li>🧐 Learning more about <strong>React</strong>, <strong>CSS</strong>, and modern web development.</li>
+  <li>🚀 I build responsive, modern web interfaces using <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>.</li>
+  <li>🎯 Focused on writing clean, reusable, and scalable front-end code.</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yusefalsalman">GitHub</a>.</li>
-  <li>💬 Ping me about <strong>front-end dev, React, Tailwind, CSS</strong>.</li>
+  <li>📚 Currently exploring <strong>Redux</strong>, <strong>Material UI</strong>, and backend basics with <strong>C#</strong> and <strong>SQL</strong>.</li>
+  <li>💬 Let's connect about <strong>front-end development</strong>, <strong>React</strong>, or <strong>UI/UX</strong>.</li>
 </ul>
 
 <h2 style="text-align: center;">🚀 Some Tools I Use</h2>
