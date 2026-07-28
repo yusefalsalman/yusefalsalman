@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/yousef-salman-27b19a33a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsE0JqCxDSq%2B5wtby%2FxET3A%3D%3D">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn" alt="LinkedIn Badge">
   </a>
-  <a href="YOUR_PORTFOLIO_LINK_HERE">
+  <a href="https://yousefsalmanportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
