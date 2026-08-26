@@ -12,7 +12,7 @@
 <ul style="list-style-position: inside; text-align: center;">
   <li>🚀 I build responsive, modern web interfaces using <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>.</li>
   <li>🎯 Focused on writing clean, reusable, and scalable front-end code.</li>
-  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yusefalsalman">GitHub</a>.</li>
+  <li>👨‍💻 Most of my projects are available on <a href="[https://github.com/yusefalsalman](https://yousefsalmanportfolio.netlify.app/)">Portfolio</a>.</li>
   <li>📚 Currently exploring <strong>Redux</strong>, <strong>Material UI</strong>, and backend basics with <strong>C#</strong> and <strong>SQL</strong>.</li>
   <li>💬 Let's connect about <strong>front-end development</strong>, <strong>React</strong>, or <strong>UI/UX</strong>.</li>
 </ul>
