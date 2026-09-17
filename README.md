@@ -1,47 +1,38 @@
-<h2 style="text-align: center;">Hey 👋, I'm Yousef Moath Salman</h2>
-<p style="text-align: center;">I'm a <strong>Front-End Developer</strong> specializing in <strong>React</strong>. Currently studying at <strong>Tafila Technical University.</p>
-<p style="text-align: center;">
-  <a href="https://www.linkedin.com/in/yousef-salman-27b19a33a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsE0JqCxDSq%2B5wtby%2FxET3A%3D%3D">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn" alt="LinkedIn Badge">
-  </a>
-  <a href="https://yousefsalmanportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge">
-  </a>
-</p>
-<h2 style="text-align: center;">⚡️ A Few Quick Facts</h2>
-<ul style="list-style-position: inside; text-align: center;">
-  <li>🚀 I build responsive, modern web interfaces using <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>.</li>
-  <li>🎯 Focused on writing clean, reusable, and scalable front-end code.</li>
-  <li>👨‍💻 Most of my projects are available on <a href="https://yousefsalmanportfolio.netlify.app">Portfolio</a>.</li>
-  <li>📚 Currently exploring <strong>Redux</strong>, <strong>Material UI</strong>, and backend basics with <strong>C#</strong> and <strong>SQL</strong>.</li>
-  <li>💬 Let's connect about <strong>front-end development</strong>, <strong>React</strong>, or <strong>UI/UX</strong>.</li>
-</ul>
+# Hey 👋, I'm Yousef Moath Salman
 
-<h2 style="text-align: center;">🚀 Some Tools I Use</h2>
-<p style="text-align: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" title="Material UI"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  <span> </span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" title="SQL Server"/>
+I'm a **Full-Stack Developer** specializing in building modern web applications with **ASP.NET Core (.NET 8)** and **React**. Currently studying Computer Science at **Tafila Technical University**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-salman-27b19a33a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefwebsites.netlify.app/)
+
+---
+
+### ⚡ A Few Quick Facts
+
+- 🚀 I architect and build full-stack solutions using **ASP.NET Core**, **React**, and **PostgreSQL / SQL Server**.
+- 🛡️ Focused on writing clean, scalable code applying **Clean Architecture**, **SOLID principles**, and secure **JWT Authentication**.
+- 💼 Check out my live work and full-stack projects on my [Portfolio](https://yousefwebsites.netlify.app/).
+- 💬 Let's connect about **.NET**, **Web APIs**, **React**, or **Backend Architecture**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="42" alt="C# and .NET" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" style="margin-left: 8px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40" alt="Swagger" style="margin-left: 8px;" />
+</p>
+
+#### **Frontend Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,materialui,html,css" height="42" alt="Frontend Tech" />
+</p>
+
+#### **Languages & Version Control**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,git,github" height="42" alt="Tools" />
 </p>
