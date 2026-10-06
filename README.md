@@ -3,14 +3,15 @@
 I'm a **Full-Stack Developer** specializing in building modern web applications with **ASP.NET Core (.NET 10)** and **React**. Currently studying Computer Science at **Tafila Technical University**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-salman-27b19a33a)
-[![Portfolio](https://yousef-portfolio-ruby.vercel.app/(https://yousef-portfolio-ruby.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://yousef-portfolio-ruby.vercel.app/)
+
 ---
 
 ### ⚡ A Few Quick Facts
 
 - 🚀 I architect and build full-stack solutions using **ASP.NET Core**, **React**, and **PostgreSQL / SQL Server**.
 - 🛡️ Focused on writing clean, scalable code applying **Clean Architecture**, **SOLID principles**, and secure **JWT Authentication**.
-- 💼 Check out my live work and full-stack projects on my [Portfolio](https://yousefwebsites.netlify.app/).
+- 💼 Check out my live work and full-stack projects on my [Portfolio](https://yousef-portfolio-ruby.vercel.app/).
 - 💬 Let's connect about **.NET**, **Web APIs**, **React**, or **Backend Architecture**.
 
 ---
