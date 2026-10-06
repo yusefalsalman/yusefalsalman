@@ -3,7 +3,7 @@
 I'm a **Full-Stack Developer** specializing in building modern web applications with **ASP.NET Core (.NET 10)** and **React**. Currently studying Computer Science at **Tafila Technical University**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-salman-27b19a33a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefwebsites.netlify.app/)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefwebsites.netlify.app/](https://yousef-portfolio-ruby.vercel.app/))
 
 ---
 
